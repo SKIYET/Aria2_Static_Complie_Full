@@ -1,0 +1,1 @@
+# Aria2_Static_Complie_Full
